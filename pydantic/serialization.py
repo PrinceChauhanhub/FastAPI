@@ -28,3 +28,9 @@ temp1 = patient1.model_dump_json()
 
 print(temp1)
 print(type(temp1))
+
+## exclude -  to exclude the field while dumping
+
+### include - to include only the required field while dumping
+
+## exclude_unset = True  jo field object creation ke time set kri gyi thi whi dikhayi jayengi

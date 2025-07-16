@@ -2,3 +2,7 @@ fastapi
 uvicorn
 pydantic
 pydantic[email]
+pandas
+scikit-learn==1.6.1`
+streamlit
+requests
